@@ -1,0 +1,28 @@
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:128] Starting a job; no job is presently running
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:129] Here's our task list: setup, discover_urls, fetch_urls, create_zip_archive, wrapup
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:147] Pushing first task to queue: setup
+[2025-12-28 00:14:44] [class-ss-background-process.php:201] Saving to key: wp_archive_creation_job_batch_8485a1babbcbaa3c7b71a3f580fef3c1. Data: Array(    [0] => setup)
+[2025-12-28 00:14:44] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:44] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:44] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:44] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:44] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:44] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:45] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:45] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:45] [class-ss-admin-rest.php:1187] Received request to cancel static archive generation
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:427] Status message: [cancel] Export cancelled.
+[2025-12-28 00:14:45] [class-ss-archive-creation-job.php:343] Can't cancel; job is done
